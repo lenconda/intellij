@@ -1,0 +1,55 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.15.0" last-modified="1545802846000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/workspace/intruders/node_modules/.bin/ts-node">
+      <version-cache last-modified="1513997165000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="180-180-180-255,,,193-91-74-255,,,224-106-86-255,,,111-117-121-255,,,142-150-155-255,,,184-195-201-255,,,88-93-96-255,,,224-224-224-255,,,92-92-92-255,,,50-56-67-255,,,66-72-86-255,,,82-90-107-255,,,44-49-59-255,,,38-42-51-255,,,51-57-69-255,,,45-50-61-255,,,37-41-50-255,,,52-57-68-255,,,64-70-84-255,,,128-128-128-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60451126" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Atom One Dark" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="KEYMAP" value="vcs&#10;next te" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="PLUGIN_FILTER" value="icon&#10;mate&#10;material&#10;docker&#10;nodejs" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SearchEveryWhereHistory" value="app&#10;(item&#10;:&#10;app-jibenxinxi&#10;mainac" />
+    <property name="SettingsSearchHistory" value="comment&#10;key&#10;icon&#10;typo&#10;mate" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="android-component-compatibility-check" value="1541821724119" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="ONE_DARK" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="evlsprt3.182" value="14" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="export.settings.path" value="$USER_HOME$/Desktop/settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/workspace/neon/node_modules/normalize-url&#10;/Users/lenconda/workspace/intruders/node_modules/.bin/ts-node" />
+    <property name="file.gist.reindex.count" value="54161" />
+    <property name="fileTypeChangedCounter" value="29" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="javascript.return.tag" value="return" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="lastTip" value="1" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="project.wizard.group" value="Node.js and NPM" />
+    <property name="project.wizard.template" value="Node.js Express App" />
+    <property name="selected.color.option.type" value="DEFAULT_DOC_COMMENT" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
