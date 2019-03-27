@@ -15,6 +15,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="queue" type="PLAIN_TEXT" />
+      <mapping pattern="authorization" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
