@@ -5,7 +5,7 @@
     <property name="description">Lenconda's customized Darcula colr scheme.</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-01-24T14:32:24</property>
+    <property name="modified">2019-03-31T14:10:49</property>
     <property name="originalScheme">Darcula</property>
     <property name="vendorMail">i@lenconda.top</property>
     <property name="vendorName">Lenconda</property>
@@ -14,7 +14,7 @@
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="FILESTATUS_ADDED" value="8f9d6a" />
     <option name="FILESTATUS_COPIED" value="8f9d6a" />
