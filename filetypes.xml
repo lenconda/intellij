@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="oh-generate" type="JavaScript" />
       <mapping pattern="koa2-init" type="JavaScript" />
+      <mapping pattern="oh-ls" type="JavaScript" />
       <mapping pattern="neon-publisher" type="PLAIN_TEXT" />
       <mapping pattern="keepalive" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
