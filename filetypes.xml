@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="cli" type="JavaScript" />
       <mapping pattern="oh-generate" type="JavaScript" />
       <mapping pattern="koa2-init" type="JavaScript" />
       <mapping pattern="oh-ls" type="JavaScript" />
