@@ -15,6 +15,7 @@
       <mapping pattern="gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="queue" type="PLAIN_TEXT" />
