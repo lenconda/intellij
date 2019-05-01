@@ -21,6 +21,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="queue" type="PLAIN_TEXT" />
       <mapping pattern="authorization" type="TypeScript" />
+      <mapping pattern="Pagenation" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
