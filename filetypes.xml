@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".phl_lab3.crc" type="PLAIN_TEXT" />
       <mapping pattern="phl_lab3" type="PLAIN_TEXT" />
+      <mapping pattern=".phl_lab3.txt.crc" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="human-property" type="Vue.js" />
     </extensionMap>
