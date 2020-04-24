@@ -4,8 +4,8 @@
       <mapping pattern=".phl_lab3.crc" type="PLAIN_TEXT" />
       <mapping pattern="phl_lab3" type="PLAIN_TEXT" />
       <mapping pattern=".phl_lab3.txt.crc" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping pattern="human-property" type="Vue.js" />
     </extensionMap>
